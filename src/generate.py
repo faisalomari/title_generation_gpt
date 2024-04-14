@@ -8,7 +8,7 @@ model = GPT2LMHeadModel.from_pretrained("./gpt2-finetuned")
 # Function to generate course titles
 def generate_course_title(skills, model, tokenizer):
     input_text = f"Course skills: {skills}"
-    # Encode the input text
+    # Encode the input text 
     input_ids = tokenizer.encode(input_text, return_tensors='pt')
     
     # Generate a sequence of tokens from the input
