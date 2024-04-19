@@ -9,8 +9,8 @@
 <h3>Contributors</h3>
 
 <ul>
-    <li>Faisal Omari, ID: 325616894, University of Haifa</li>
-    <li>Saji Assi, ID: 314831207, University of Haifa</li>
+    <li>Faisal Omari, University of Haifa</li>
+    <li>Saji Assi, University of Haifa</li>
 </ul>
 
 <h3>Installation</h3>
