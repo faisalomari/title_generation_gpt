@@ -1,7 +1,5 @@
 <h1>Title Generation using Fine-Tuned GPT Model</h1>
 
-<h2>Title Generation using Fine-Tuned GPT Model</h2>
-
 <p><strong>Title Generation using Fine-Tuned GPT Model</strong> is a project aimed at generating course titles based on a given set of skills using the GPT-2 model.</p>
 
 <h3>Project Overview</h3>
